@@ -1,4 +1,4 @@
-# hello-world
+# Hello World
 first project 
 
 i'm a Newbie in GitHub, 
